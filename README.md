@@ -1,1 +1,1 @@
-# soralitcs-web
+# soralytics-web
